@@ -19,7 +19,7 @@ export function FoodNavbar(){
         <div className="container-fluid  mt-4">
           <div className="navbar">
           <div>
-                <h3 className="fw-bold fs-1 tamato">Tamato.</h3>
+                <h3 className="fw-bold fs-1 tamato">Rehan.</h3>
             </div>
             <div className="headers" >
                 <span onClick={handleHome}  className={menu==="home"?"active":""}>home</span>
